@@ -1,0 +1,5 @@
+Patient ID: 40750
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug A, Drug C
+Age: 67

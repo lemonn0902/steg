@@ -1,0 +1,5 @@
+Patient ID: 52187
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug E
+Age: 36

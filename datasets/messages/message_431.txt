@@ -1,0 +1,5 @@
+Patient ID: 56496
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug B, Drug D
+Age: 56

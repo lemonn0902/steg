@@ -1,0 +1,5 @@
+Patient ID: 31400
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug E, Drug C
+Age: 69

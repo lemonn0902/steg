@@ -1,0 +1,5 @@
+Patient ID: 29550
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug A, Drug E
+Age: 61

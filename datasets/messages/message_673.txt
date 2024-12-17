@@ -1,0 +1,5 @@
+Patient ID: 90700
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 79

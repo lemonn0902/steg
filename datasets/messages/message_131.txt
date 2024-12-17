@@ -1,0 +1,5 @@
+Patient ID: 98634
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug C
+Age: 21

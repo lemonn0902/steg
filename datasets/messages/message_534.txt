@@ -1,0 +1,5 @@
+Patient ID: 58575
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug E
+Age: 80

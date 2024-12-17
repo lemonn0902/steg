@@ -1,0 +1,5 @@
+Patient ID: 21163
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 43

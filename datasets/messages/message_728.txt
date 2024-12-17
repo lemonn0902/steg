@@ -1,0 +1,5 @@
+Patient ID: 26398
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug B
+Age: 21

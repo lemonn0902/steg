@@ -1,0 +1,5 @@
+Patient ID: 74298
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug A, Drug B, Drug D
+Age: 84

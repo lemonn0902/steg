@@ -1,0 +1,5 @@
+Patient ID: 35772
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug D, Drug B
+Age: 48

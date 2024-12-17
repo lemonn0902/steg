@@ -1,0 +1,5 @@
+Patient ID: 51066
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug D, Drug A
+Age: 39

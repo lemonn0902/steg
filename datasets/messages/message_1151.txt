@@ -1,0 +1,5 @@
+Patient ID: 46312
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug B
+Age: 35

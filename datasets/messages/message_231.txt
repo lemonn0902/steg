@@ -1,0 +1,5 @@
+Patient ID: 63032
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug B, Drug E
+Age: 48

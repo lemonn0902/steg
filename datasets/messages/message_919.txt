@@ -1,0 +1,5 @@
+Patient ID: 75785
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug A, Drug C, Drug B
+Age: 75

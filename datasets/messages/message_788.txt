@@ -1,0 +1,5 @@
+Patient ID: 94414
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug C, Drug D, Drug B
+Age: 20

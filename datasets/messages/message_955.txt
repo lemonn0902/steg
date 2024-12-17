@@ -1,0 +1,5 @@
+Patient ID: 30557
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug D
+Age: 77

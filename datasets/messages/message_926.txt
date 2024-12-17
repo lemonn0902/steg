@@ -1,0 +1,5 @@
+Patient ID: 65534
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug B
+Age: 51

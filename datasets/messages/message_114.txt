@@ -1,0 +1,5 @@
+Patient ID: 72196
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug C, Drug E
+Age: 31

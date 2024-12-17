@@ -1,0 +1,5 @@
+Patient ID: 77037
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug A, Drug C, Drug B
+Age: 89

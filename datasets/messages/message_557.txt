@@ -1,0 +1,5 @@
+Patient ID: 72706
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug A, Drug D
+Age: 41

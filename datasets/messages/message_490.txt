@@ -1,0 +1,5 @@
+Patient ID: 67852
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug A
+Age: 31

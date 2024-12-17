@@ -1,0 +1,5 @@
+Patient ID: 84964
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 58

@@ -1,0 +1,5 @@
+Patient ID: 31568
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug C, Drug E
+Age: 82

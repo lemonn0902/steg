@@ -1,0 +1,5 @@
+Patient ID: 75996
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug D
+Age: 66

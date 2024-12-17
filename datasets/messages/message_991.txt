@@ -1,0 +1,5 @@
+Patient ID: 11154
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug D
+Age: 63

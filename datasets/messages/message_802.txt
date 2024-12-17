@@ -1,0 +1,5 @@
+Patient ID: 29876
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug B
+Age: 45

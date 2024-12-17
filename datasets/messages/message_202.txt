@@ -1,0 +1,5 @@
+Patient ID: 89828
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug E, Drug B
+Age: 75

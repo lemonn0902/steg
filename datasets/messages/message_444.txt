@@ -1,0 +1,5 @@
+Patient ID: 76394
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug D
+Age: 76

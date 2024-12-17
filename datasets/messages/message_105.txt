@@ -1,0 +1,5 @@
+Patient ID: 38089
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug B, Drug E, Drug C
+Age: 51

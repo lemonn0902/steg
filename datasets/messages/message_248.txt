@@ -1,0 +1,5 @@
+Patient ID: 90583
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D
+Age: 52

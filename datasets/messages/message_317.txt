@@ -1,0 +1,5 @@
+Patient ID: 43462
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug E, Drug B, Drug A
+Age: 50

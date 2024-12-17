@@ -1,0 +1,5 @@
+Patient ID: 33032
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug A
+Age: 52

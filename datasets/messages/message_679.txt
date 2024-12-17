@@ -1,0 +1,5 @@
+Patient ID: 64339
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug A, Drug B, Drug D
+Age: 30

@@ -1,0 +1,5 @@
+Patient ID: 45208
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug B
+Age: 38

@@ -1,0 +1,5 @@
+Patient ID: 92558
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug C
+Age: 65

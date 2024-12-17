@@ -1,0 +1,5 @@
+Patient ID: 77671
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug C, Drug E
+Age: 57

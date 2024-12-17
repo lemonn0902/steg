@@ -1,0 +1,5 @@
+Patient ID: 20483
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug C, Drug A
+Age: 66

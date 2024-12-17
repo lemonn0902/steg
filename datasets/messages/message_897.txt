@@ -1,0 +1,5 @@
+Patient ID: 54885
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug A
+Age: 23

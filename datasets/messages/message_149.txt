@@ -1,0 +1,5 @@
+Patient ID: 80904
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug C
+Age: 68

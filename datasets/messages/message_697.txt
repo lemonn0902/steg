@@ -1,0 +1,5 @@
+Patient ID: 51719
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug A, Drug E, Drug C
+Age: 67

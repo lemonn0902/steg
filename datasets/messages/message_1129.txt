@@ -1,0 +1,5 @@
+Patient ID: 64279
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug B, Drug D
+Age: 86

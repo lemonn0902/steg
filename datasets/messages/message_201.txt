@@ -1,0 +1,5 @@
+Patient ID: 63480
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug A, Drug D
+Age: 41

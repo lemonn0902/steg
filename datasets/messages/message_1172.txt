@@ -1,0 +1,5 @@
+Patient ID: 15402
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug C, Drug D, Drug E
+Age: 24

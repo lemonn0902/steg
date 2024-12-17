@@ -1,0 +1,5 @@
+Patient ID: 90199
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug A
+Age: 55

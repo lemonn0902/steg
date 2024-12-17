@@ -1,0 +1,5 @@
+Patient ID: 62761
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug E, Drug C, Drug A
+Age: 44

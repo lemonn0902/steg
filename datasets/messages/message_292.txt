@@ -1,0 +1,5 @@
+Patient ID: 88278
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug D
+Age: 58

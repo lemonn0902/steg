@@ -1,0 +1,5 @@
+Patient ID: 76882
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug C
+Age: 32

@@ -1,0 +1,5 @@
+Patient ID: 42877
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug E
+Age: 38

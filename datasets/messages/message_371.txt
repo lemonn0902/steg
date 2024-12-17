@@ -1,0 +1,5 @@
+Patient ID: 38683
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug C, Drug A, Drug B
+Age: 27

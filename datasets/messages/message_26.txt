@@ -1,0 +1,5 @@
+Patient ID: 14102
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug B, Drug E
+Age: 39

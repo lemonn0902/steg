@@ -1,0 +1,5 @@
+Patient ID: 93899
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug E, Drug C
+Age: 43

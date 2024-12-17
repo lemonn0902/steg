@@ -1,0 +1,5 @@
+Patient ID: 39964
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug D, Drug B
+Age: 62

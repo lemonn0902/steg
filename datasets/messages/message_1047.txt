@@ -1,0 +1,5 @@
+Patient ID: 76211
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug C, Drug A
+Age: 82

@@ -1,0 +1,5 @@
+Patient ID: 73302
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug E
+Age: 20

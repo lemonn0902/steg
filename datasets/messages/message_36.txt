@@ -1,0 +1,5 @@
+Patient ID: 23549
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D, Drug E
+Age: 47

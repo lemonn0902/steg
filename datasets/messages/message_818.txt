@@ -1,0 +1,5 @@
+Patient ID: 87591
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 86

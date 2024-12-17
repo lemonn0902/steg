@@ -1,0 +1,5 @@
+Patient ID: 77622
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 49

@@ -1,0 +1,5 @@
+Patient ID: 18402
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug E
+Age: 76

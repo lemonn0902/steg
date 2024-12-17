@@ -1,0 +1,5 @@
+Patient ID: 84067
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug A
+Age: 22

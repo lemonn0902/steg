@@ -1,0 +1,5 @@
+Patient ID: 12451
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug E, Drug B
+Age: 73

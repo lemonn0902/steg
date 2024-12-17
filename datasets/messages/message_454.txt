@@ -1,0 +1,5 @@
+Patient ID: 61689
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug A
+Age: 85

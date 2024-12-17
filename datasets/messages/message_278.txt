@@ -1,0 +1,5 @@
+Patient ID: 22277
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug E, Drug A
+Age: 24

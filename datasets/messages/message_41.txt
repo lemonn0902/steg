@@ -1,0 +1,5 @@
+Patient ID: 72483
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug B, Drug D
+Age: 42

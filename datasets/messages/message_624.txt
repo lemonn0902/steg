@@ -1,0 +1,5 @@
+Patient ID: 57778
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug E, Drug C, Drug A
+Age: 68

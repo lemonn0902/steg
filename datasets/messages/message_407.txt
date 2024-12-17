@@ -1,0 +1,5 @@
+Patient ID: 80533
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug B, Drug A
+Age: 22

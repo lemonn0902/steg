@@ -1,0 +1,5 @@
+Patient ID: 68919
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug E
+Age: 40

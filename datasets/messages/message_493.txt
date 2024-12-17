@@ -1,0 +1,5 @@
+Patient ID: 60410
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug A, Drug C, Drug B
+Age: 52

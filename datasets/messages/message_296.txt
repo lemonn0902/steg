@@ -1,0 +1,5 @@
+Patient ID: 75095
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug E, Drug D, Drug B
+Age: 26

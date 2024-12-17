@@ -1,0 +1,5 @@
+Patient ID: 96985
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug A
+Age: 83

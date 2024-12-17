@@ -1,0 +1,5 @@
+Patient ID: 41920
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug E, Drug B
+Age: 41

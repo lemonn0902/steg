@@ -1,0 +1,5 @@
+Patient ID: 14652
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug A, Drug D, Drug C
+Age: 71

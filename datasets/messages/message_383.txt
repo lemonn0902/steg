@@ -1,0 +1,5 @@
+Patient ID: 73909
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug B
+Age: 60

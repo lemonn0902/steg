@@ -1,0 +1,5 @@
+Patient ID: 27953
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 43

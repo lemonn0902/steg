@@ -1,0 +1,5 @@
+Patient ID: 25235
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug E, Drug B
+Age: 87

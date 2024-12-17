@@ -1,0 +1,5 @@
+Patient ID: 54724
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug E, Drug B
+Age: 40

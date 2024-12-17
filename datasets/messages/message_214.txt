@@ -1,0 +1,5 @@
+Patient ID: 15035
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug C, Drug B
+Age: 80

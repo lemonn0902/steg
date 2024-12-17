@@ -1,0 +1,5 @@
+Patient ID: 76012
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug B, Drug A
+Age: 28

@@ -1,0 +1,5 @@
+Patient ID: 74839
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug A
+Age: 49

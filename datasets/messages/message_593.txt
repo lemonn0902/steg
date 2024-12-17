@@ -1,0 +1,5 @@
+Patient ID: 82014
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug D, Drug B
+Age: 37

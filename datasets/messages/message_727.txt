@@ -1,0 +1,5 @@
+Patient ID: 12456
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug D, Drug B
+Age: 40

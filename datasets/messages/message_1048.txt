@@ -1,0 +1,5 @@
+Patient ID: 85957
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug A, Drug C, Drug E
+Age: 23

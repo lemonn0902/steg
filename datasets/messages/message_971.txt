@@ -1,0 +1,5 @@
+Patient ID: 51660
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug B, Drug C, Drug D
+Age: 65

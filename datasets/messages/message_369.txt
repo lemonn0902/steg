@@ -1,0 +1,5 @@
+Patient ID: 23480
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug B, Drug E
+Age: 25

@@ -1,0 +1,5 @@
+Patient ID: 89937
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug C, Drug D
+Age: 24

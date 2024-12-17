@@ -1,0 +1,5 @@
+Patient ID: 33545
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug A
+Age: 24

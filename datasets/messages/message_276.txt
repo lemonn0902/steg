@@ -1,0 +1,5 @@
+Patient ID: 76472
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug B
+Age: 76

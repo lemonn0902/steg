@@ -1,0 +1,5 @@
+Patient ID: 66713
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug E
+Age: 44

@@ -1,0 +1,5 @@
+Patient ID: 98971
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug D
+Age: 47

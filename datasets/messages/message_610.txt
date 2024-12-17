@@ -1,0 +1,5 @@
+Patient ID: 25002
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug D
+Age: 88

@@ -1,0 +1,5 @@
+Patient ID: 95081
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug A, Drug B
+Age: 55

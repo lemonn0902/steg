@@ -1,0 +1,5 @@
+Patient ID: 91842
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug A
+Age: 73

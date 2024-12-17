@@ -1,0 +1,5 @@
+Patient ID: 36663
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug C, Drug E, Drug A
+Age: 85

@@ -1,0 +1,5 @@
+Patient ID: 65622
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug D
+Age: 29

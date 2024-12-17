@@ -1,0 +1,5 @@
+Patient ID: 81045
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug D
+Age: 53

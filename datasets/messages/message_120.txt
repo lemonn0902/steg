@@ -1,0 +1,5 @@
+Patient ID: 77330
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug A
+Age: 39

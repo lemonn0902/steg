@@ -1,0 +1,5 @@
+Patient ID: 78195
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug C, Drug E
+Age: 23

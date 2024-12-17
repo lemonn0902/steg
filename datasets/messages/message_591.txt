@@ -1,0 +1,5 @@
+Patient ID: 15953
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug A
+Age: 85

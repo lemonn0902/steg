@@ -1,0 +1,5 @@
+Patient ID: 33348
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug D, Drug A
+Age: 30

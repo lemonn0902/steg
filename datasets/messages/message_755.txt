@@ -1,0 +1,5 @@
+Patient ID: 81046
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug D
+Age: 65

@@ -1,0 +1,5 @@
+Patient ID: 94365
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug C, Drug D, Drug B
+Age: 38

@@ -1,0 +1,5 @@
+Patient ID: 57110
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A, Drug B, Drug C
+Age: 38

@@ -1,0 +1,5 @@
+Patient ID: 42682
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug A, Drug D
+Age: 82

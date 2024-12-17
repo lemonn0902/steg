@@ -1,0 +1,5 @@
+Patient ID: 63265
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug A, Drug C, Drug E
+Age: 87

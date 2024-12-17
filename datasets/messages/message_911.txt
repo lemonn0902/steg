@@ -1,0 +1,5 @@
+Patient ID: 11777
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug A, Drug D
+Age: 77

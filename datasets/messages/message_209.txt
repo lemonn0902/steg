@@ -1,0 +1,5 @@
+Patient ID: 33895
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug B
+Age: 31

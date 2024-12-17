@@ -1,0 +1,5 @@
+Patient ID: 69261
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug A
+Age: 79

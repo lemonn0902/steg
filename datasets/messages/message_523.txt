@@ -1,0 +1,5 @@
+Patient ID: 47148
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug C
+Age: 47

@@ -1,0 +1,5 @@
+Patient ID: 22448
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug D, Drug E, Drug C
+Age: 61

@@ -1,0 +1,5 @@
+Patient ID: 89474
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug D, Drug A
+Age: 21

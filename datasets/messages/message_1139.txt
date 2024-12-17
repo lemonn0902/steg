@@ -1,0 +1,5 @@
+Patient ID: 61887
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C
+Age: 83

@@ -1,0 +1,5 @@
+Patient ID: 43182
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug E
+Age: 89

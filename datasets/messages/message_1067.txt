@@ -1,0 +1,5 @@
+Patient ID: 94441
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 89

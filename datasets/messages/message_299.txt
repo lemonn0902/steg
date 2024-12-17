@@ -1,0 +1,5 @@
+Patient ID: 85803
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug D, Drug E
+Age: 40

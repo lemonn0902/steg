@@ -1,0 +1,5 @@
+Patient ID: 45702
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug A, Drug B
+Age: 54

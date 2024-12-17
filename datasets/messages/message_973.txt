@@ -1,0 +1,5 @@
+Patient ID: 66832
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug B
+Age: 74

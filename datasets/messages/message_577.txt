@@ -1,0 +1,5 @@
+Patient ID: 82730
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug E
+Age: 37

@@ -1,0 +1,5 @@
+Patient ID: 22128
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug D
+Age: 57

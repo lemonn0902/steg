@@ -1,0 +1,5 @@
+Patient ID: 10039
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug D, Drug C
+Age: 79

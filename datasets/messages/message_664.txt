@@ -1,0 +1,5 @@
+Patient ID: 23417
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug E, Drug D, Drug C
+Age: 70

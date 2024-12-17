@@ -1,0 +1,5 @@
+Patient ID: 84138
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug E, Drug D
+Age: 66

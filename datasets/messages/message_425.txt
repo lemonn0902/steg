@@ -1,0 +1,5 @@
+Patient ID: 88419
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug B
+Age: 69

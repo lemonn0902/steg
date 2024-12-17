@@ -1,0 +1,5 @@
+Patient ID: 66354
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug B
+Age: 28

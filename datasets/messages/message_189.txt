@@ -1,0 +1,5 @@
+Patient ID: 61295
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug E
+Age: 61

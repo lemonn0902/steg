@@ -1,0 +1,5 @@
+Patient ID: 16004
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug A, Drug C, Drug B
+Age: 27

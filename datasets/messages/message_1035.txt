@@ -1,0 +1,5 @@
+Patient ID: 88599
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug C, Drug A
+Age: 76

@@ -1,0 +1,5 @@
+Patient ID: 68081
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug C, Drug B
+Age: 60

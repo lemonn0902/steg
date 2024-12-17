@@ -1,0 +1,5 @@
+Patient ID: 69768
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug E, Drug A
+Age: 57

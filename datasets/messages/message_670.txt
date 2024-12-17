@@ -1,0 +1,5 @@
+Patient ID: 48533
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug D, Drug A
+Age: 77

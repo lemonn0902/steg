@@ -1,0 +1,5 @@
+Patient ID: 63671
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug B, Drug C, Drug D
+Age: 72

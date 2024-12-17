@@ -1,0 +1,5 @@
+Patient ID: 92726
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug B, Drug C, Drug E
+Age: 51

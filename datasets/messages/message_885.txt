@@ -1,0 +1,5 @@
+Patient ID: 43844
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug C, Drug D
+Age: 67

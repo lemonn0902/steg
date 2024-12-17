@@ -1,0 +1,5 @@
+Patient ID: 23712
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug C, Drug A
+Age: 75

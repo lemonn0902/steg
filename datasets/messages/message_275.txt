@@ -1,0 +1,5 @@
+Patient ID: 78555
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug D
+Age: 27

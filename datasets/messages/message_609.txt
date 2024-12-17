@@ -1,0 +1,5 @@
+Patient ID: 11511
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug D, Drug A
+Age: 77

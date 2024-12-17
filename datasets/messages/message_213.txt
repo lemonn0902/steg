@@ -1,0 +1,5 @@
+Patient ID: 11992
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug A, Drug C
+Age: 54

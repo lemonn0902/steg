@@ -1,0 +1,5 @@
+Patient ID: 31609
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug A, Drug D
+Age: 86

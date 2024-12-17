@@ -1,0 +1,5 @@
+Patient ID: 38537
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug E
+Age: 59

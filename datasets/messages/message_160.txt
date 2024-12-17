@@ -1,0 +1,5 @@
+Patient ID: 92353
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug C, Drug D
+Age: 22

@@ -1,0 +1,5 @@
+Patient ID: 22122
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug D
+Age: 44

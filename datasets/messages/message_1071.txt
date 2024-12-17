@@ -1,0 +1,5 @@
+Patient ID: 54392
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug B, Drug A
+Age: 45

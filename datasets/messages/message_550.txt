@@ -1,0 +1,5 @@
+Patient ID: 15681
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug C
+Age: 77

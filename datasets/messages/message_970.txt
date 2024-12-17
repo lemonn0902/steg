@@ -1,0 +1,5 @@
+Patient ID: 68993
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug E
+Age: 54

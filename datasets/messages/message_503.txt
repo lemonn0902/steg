@@ -1,0 +1,5 @@
+Patient ID: 65942
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug B, Drug D
+Age: 66

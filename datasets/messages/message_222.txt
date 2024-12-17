@@ -1,0 +1,5 @@
+Patient ID: 42354
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug D, Drug A, Drug E
+Age: 54

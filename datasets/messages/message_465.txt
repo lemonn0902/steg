@@ -1,0 +1,5 @@
+Patient ID: 79123
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug E
+Age: 67

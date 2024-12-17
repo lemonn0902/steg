@@ -1,0 +1,5 @@
+Patient ID: 17355
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug B
+Age: 21

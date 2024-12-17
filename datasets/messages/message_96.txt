@@ -1,0 +1,5 @@
+Patient ID: 51280
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug C, Drug A
+Age: 82

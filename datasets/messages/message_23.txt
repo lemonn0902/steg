@@ -1,0 +1,5 @@
+Patient ID: 58674
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug E, Drug C
+Age: 33

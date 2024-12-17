@@ -1,0 +1,5 @@
+Patient ID: 11450
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug A, Drug D
+Age: 75

@@ -1,0 +1,5 @@
+Patient ID: 34050
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug B, Drug D
+Age: 35

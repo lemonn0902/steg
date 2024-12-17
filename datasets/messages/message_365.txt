@@ -1,0 +1,5 @@
+Patient ID: 99768
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug B
+Age: 58

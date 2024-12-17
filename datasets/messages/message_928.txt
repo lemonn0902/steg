@@ -1,0 +1,5 @@
+Patient ID: 68795
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug A, Drug C
+Age: 49

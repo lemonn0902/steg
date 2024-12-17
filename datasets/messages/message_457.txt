@@ -1,0 +1,5 @@
+Patient ID: 13907
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A
+Age: 86

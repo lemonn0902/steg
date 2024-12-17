@@ -1,0 +1,5 @@
+Patient ID: 65152
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 63

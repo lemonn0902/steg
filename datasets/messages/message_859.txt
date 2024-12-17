@@ -1,0 +1,5 @@
+Patient ID: 64475
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug B
+Age: 33

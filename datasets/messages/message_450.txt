@@ -1,0 +1,5 @@
+Patient ID: 43540
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug B, Drug D
+Age: 84

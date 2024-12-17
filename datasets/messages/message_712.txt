@@ -1,0 +1,5 @@
+Patient ID: 22225
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A, Drug E
+Age: 84

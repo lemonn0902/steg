@@ -1,0 +1,5 @@
+Patient ID: 64437
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug A, Drug B, Drug E
+Age: 57

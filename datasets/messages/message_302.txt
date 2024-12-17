@@ -1,0 +1,5 @@
+Patient ID: 52631
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug D
+Age: 29

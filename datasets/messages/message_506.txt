@@ -1,0 +1,5 @@
+Patient ID: 78222
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug E, Drug B
+Age: 77

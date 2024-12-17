@@ -1,0 +1,5 @@
+Patient ID: 34557
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug B, Drug E, Drug C
+Age: 68

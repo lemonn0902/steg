@@ -1,0 +1,5 @@
+Patient ID: 13782
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug D, Drug B, Drug A
+Age: 64

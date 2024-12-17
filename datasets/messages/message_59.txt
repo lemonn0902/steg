@@ -1,0 +1,5 @@
+Patient ID: 71481
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug D, Drug A, Drug C
+Age: 86

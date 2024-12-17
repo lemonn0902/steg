@@ -1,0 +1,5 @@
+Patient ID: 37667
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug E, Drug D
+Age: 83

@@ -1,0 +1,5 @@
+Patient ID: 82968
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug E
+Age: 48

@@ -1,0 +1,5 @@
+Patient ID: 92156
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug A
+Age: 54

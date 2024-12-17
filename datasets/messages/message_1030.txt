@@ -1,0 +1,5 @@
+Patient ID: 92454
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug A, Drug C, Drug E
+Age: 50

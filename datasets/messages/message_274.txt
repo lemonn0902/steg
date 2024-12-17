@@ -1,0 +1,5 @@
+Patient ID: 22306
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug A
+Age: 32

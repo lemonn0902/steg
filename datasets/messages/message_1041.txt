@@ -1,0 +1,5 @@
+Patient ID: 39581
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug C
+Age: 48

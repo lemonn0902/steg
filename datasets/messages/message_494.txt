@@ -1,0 +1,5 @@
+Patient ID: 78000
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug E, Drug D
+Age: 33

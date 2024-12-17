@@ -1,0 +1,5 @@
+Patient ID: 59626
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug E, Drug A
+Age: 88

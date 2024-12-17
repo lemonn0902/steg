@@ -1,0 +1,5 @@
+Patient ID: 19018
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug C, Drug B, Drug A
+Age: 23

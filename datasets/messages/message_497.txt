@@ -1,0 +1,5 @@
+Patient ID: 63515
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug B, Drug A
+Age: 50

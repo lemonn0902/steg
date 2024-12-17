@@ -1,0 +1,5 @@
+Patient ID: 88094
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug B, Drug A
+Age: 75

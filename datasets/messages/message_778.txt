@@ -1,0 +1,5 @@
+Patient ID: 66049
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug C, Drug B
+Age: 67

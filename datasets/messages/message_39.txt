@@ -1,0 +1,5 @@
+Patient ID: 45253
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug E, Drug D
+Age: 37

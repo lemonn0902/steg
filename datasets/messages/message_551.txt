@@ -1,0 +1,5 @@
+Patient ID: 67585
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug E, Drug C
+Age: 28

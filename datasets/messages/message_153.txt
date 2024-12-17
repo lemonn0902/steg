@@ -1,0 +1,5 @@
+Patient ID: 27493
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug B, Drug E, Drug D
+Age: 81

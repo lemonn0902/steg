@@ -1,0 +1,5 @@
+Patient ID: 36488
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug D, Drug E
+Age: 89

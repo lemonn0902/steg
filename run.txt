@@ -1,0 +1,2 @@
+python3.9 /Users/shreya/Desktop/steg/encode.py
+python3.9 /Users/shreya/Desktop/steg/encode1.py

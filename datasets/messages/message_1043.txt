@@ -1,0 +1,5 @@
+Patient ID: 63839
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug D, Drug B
+Age: 27

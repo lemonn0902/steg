@@ -1,0 +1,5 @@
+Patient ID: 42910
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug D
+Age: 49

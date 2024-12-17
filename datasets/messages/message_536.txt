@@ -1,0 +1,5 @@
+Patient ID: 72478
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug A
+Age: 26

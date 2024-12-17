@@ -1,0 +1,5 @@
+Patient ID: 24342
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug A
+Age: 48

@@ -1,0 +1,5 @@
+Patient ID: 13619
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug B, Drug C
+Age: 22

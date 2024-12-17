@@ -1,0 +1,5 @@
+Patient ID: 75485
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug B, Drug A
+Age: 62

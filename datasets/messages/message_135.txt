@@ -1,0 +1,5 @@
+Patient ID: 70343
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug C, Drug E
+Age: 40

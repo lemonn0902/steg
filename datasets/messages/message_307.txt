@@ -1,0 +1,5 @@
+Patient ID: 64799
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug E, Drug D
+Age: 37

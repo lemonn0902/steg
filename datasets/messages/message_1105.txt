@@ -1,0 +1,5 @@
+Patient ID: 23939
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug D, Drug A, Drug C
+Age: 74

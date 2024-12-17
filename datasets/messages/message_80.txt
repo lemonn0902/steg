@@ -1,0 +1,5 @@
+Patient ID: 98382
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug C, Drug E
+Age: 68

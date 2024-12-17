@@ -1,0 +1,5 @@
+Patient ID: 83414
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D
+Age: 65

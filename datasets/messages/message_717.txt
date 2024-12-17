@@ -1,0 +1,5 @@
+Patient ID: 38427
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug D, Drug A
+Age: 54

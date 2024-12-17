@@ -1,0 +1,5 @@
+Patient ID: 48938
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug B, Drug D
+Age: 80

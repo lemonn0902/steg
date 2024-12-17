@@ -1,0 +1,5 @@
+Patient ID: 29773
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 62

@@ -1,0 +1,5 @@
+Patient ID: 82744
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug C
+Age: 34

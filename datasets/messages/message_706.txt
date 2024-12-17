@@ -1,0 +1,5 @@
+Patient ID: 29445
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug B
+Age: 65

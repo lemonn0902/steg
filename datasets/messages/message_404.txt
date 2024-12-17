@@ -1,0 +1,5 @@
+Patient ID: 72802
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C
+Age: 41

@@ -1,0 +1,5 @@
+Patient ID: 79882
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug A, Drug B
+Age: 32

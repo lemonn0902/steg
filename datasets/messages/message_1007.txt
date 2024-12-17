@@ -1,0 +1,5 @@
+Patient ID: 46880
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug A, Drug C
+Age: 63

@@ -1,0 +1,5 @@
+Patient ID: 49440
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug A, Drug B, Drug E
+Age: 43

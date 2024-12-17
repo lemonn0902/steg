@@ -1,0 +1,5 @@
+Patient ID: 23102
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug D, Drug B
+Age: 76

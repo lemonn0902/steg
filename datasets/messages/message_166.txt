@@ -1,0 +1,5 @@
+Patient ID: 61412
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug A, Drug E, Drug B
+Age: 31

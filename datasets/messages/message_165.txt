@@ -1,0 +1,5 @@
+Patient ID: 50840
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug C, Drug D, Drug E
+Age: 58

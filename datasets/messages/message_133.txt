@@ -1,0 +1,5 @@
+Patient ID: 48167
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug B
+Age: 23

@@ -1,0 +1,5 @@
+Patient ID: 73065
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug B, Drug E, Drug D
+Age: 47

@@ -1,0 +1,5 @@
+Patient ID: 82343
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug B
+Age: 22

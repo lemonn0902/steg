@@ -1,0 +1,5 @@
+Patient ID: 50002
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug B
+Age: 69

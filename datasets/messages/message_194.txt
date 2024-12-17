@@ -1,0 +1,5 @@
+Patient ID: 15194
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 82

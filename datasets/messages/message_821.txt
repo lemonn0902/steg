@@ -1,0 +1,5 @@
+Patient ID: 51123
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C
+Age: 29

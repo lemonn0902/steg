@@ -1,0 +1,5 @@
+Patient ID: 81898
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug D
+Age: 39

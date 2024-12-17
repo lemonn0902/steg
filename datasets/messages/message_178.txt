@@ -1,0 +1,5 @@
+Patient ID: 41750
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug D
+Age: 50

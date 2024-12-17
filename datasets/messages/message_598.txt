@@ -1,0 +1,5 @@
+Patient ID: 57836
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug E
+Age: 89

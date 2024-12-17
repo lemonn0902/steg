@@ -1,0 +1,5 @@
+Patient ID: 70845
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug A
+Age: 20

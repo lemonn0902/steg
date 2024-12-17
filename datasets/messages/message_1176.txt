@@ -1,0 +1,5 @@
+Patient ID: 70506
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug C, Drug D, Drug B
+Age: 51

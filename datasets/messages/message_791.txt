@@ -1,0 +1,5 @@
+Patient ID: 10247
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug B, Drug C
+Age: 32

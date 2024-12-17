@@ -1,0 +1,5 @@
+Patient ID: 60466
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug E, Drug A
+Age: 87

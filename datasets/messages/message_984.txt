@@ -1,0 +1,5 @@
+Patient ID: 64485
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug A
+Age: 47

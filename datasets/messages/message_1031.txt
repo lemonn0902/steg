@@ -1,0 +1,5 @@
+Patient ID: 22061
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug D, Drug E
+Age: 74

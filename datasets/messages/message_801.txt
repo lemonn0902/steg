@@ -1,0 +1,5 @@
+Patient ID: 65534
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug D, Drug E
+Age: 89

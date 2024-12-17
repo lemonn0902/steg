@@ -1,0 +1,5 @@
+Patient ID: 13414
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug A, Drug B
+Age: 76

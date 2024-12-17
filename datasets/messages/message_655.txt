@@ -1,0 +1,5 @@
+Patient ID: 65294
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug C
+Age: 48

@@ -1,0 +1,5 @@
+Patient ID: 27200
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug D
+Age: 34

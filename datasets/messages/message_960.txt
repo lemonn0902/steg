@@ -1,0 +1,5 @@
+Patient ID: 53949
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug A, Drug D, Drug E
+Age: 55

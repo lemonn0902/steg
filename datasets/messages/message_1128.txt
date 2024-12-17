@@ -1,0 +1,5 @@
+Patient ID: 35354
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C, Drug A
+Age: 67

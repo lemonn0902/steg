@@ -1,0 +1,5 @@
+Patient ID: 42741
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug C, Drug D
+Age: 80

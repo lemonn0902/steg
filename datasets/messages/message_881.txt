@@ -1,0 +1,5 @@
+Patient ID: 59086
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug C
+Age: 62

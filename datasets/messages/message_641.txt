@@ -1,0 +1,5 @@
+Patient ID: 58201
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug B
+Age: 44

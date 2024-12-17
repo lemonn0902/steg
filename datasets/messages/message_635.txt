@@ -1,0 +1,5 @@
+Patient ID: 48143
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug B, Drug C, Drug A
+Age: 36

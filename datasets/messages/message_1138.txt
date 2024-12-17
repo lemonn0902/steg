@@ -1,0 +1,5 @@
+Patient ID: 64683
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug A, Drug B
+Age: 49

@@ -1,0 +1,5 @@
+Patient ID: 52787
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug D
+Age: 21

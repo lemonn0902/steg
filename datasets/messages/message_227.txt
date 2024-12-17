@@ -1,0 +1,5 @@
+Patient ID: 75838
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 29

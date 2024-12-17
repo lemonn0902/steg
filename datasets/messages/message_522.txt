@@ -1,0 +1,5 @@
+Patient ID: 28888
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug C
+Age: 41

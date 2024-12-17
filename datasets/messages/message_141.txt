@@ -1,0 +1,5 @@
+Patient ID: 77639
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug C, Drug E
+Age: 35

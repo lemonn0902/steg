@@ -1,0 +1,5 @@
+Patient ID: 17221
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug D, Drug C
+Age: 53

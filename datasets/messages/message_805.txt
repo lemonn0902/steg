@@ -1,0 +1,5 @@
+Patient ID: 62046
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug C
+Age: 44

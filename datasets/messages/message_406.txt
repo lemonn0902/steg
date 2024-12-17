@@ -1,0 +1,5 @@
+Patient ID: 27976
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug B, Drug E
+Age: 68

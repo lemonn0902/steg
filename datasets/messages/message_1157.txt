@@ -1,0 +1,5 @@
+Patient ID: 50542
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug C, Drug B, Drug D
+Age: 56

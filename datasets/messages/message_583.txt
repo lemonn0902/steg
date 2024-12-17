@@ -1,0 +1,5 @@
+Patient ID: 24284
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug C
+Age: 23

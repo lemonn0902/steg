@@ -1,0 +1,5 @@
+Patient ID: 96033
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug D, Drug C, Drug B
+Age: 72

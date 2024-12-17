@@ -1,0 +1,5 @@
+Patient ID: 15498
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug D
+Age: 81

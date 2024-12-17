@@ -1,0 +1,5 @@
+Patient ID: 87814
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug B
+Age: 68

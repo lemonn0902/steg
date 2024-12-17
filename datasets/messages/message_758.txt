@@ -1,0 +1,5 @@
+Patient ID: 92292
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug C
+Age: 43

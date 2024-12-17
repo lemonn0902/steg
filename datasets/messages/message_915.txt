@@ -1,0 +1,5 @@
+Patient ID: 64570
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug C
+Age: 37

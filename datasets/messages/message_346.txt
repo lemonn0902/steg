@@ -1,0 +1,5 @@
+Patient ID: 70387
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug C
+Age: 64

@@ -1,0 +1,5 @@
+Patient ID: 13203
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 57

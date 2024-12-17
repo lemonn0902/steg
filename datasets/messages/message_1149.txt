@@ -1,0 +1,5 @@
+Patient ID: 60913
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug D, Drug A, Drug E
+Age: 51

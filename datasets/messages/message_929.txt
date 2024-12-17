@@ -1,0 +1,5 @@
+Patient ID: 74410
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug B, Drug D
+Age: 48

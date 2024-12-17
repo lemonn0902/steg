@@ -1,0 +1,5 @@
+Patient ID: 86307
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug B, Drug E
+Age: 85

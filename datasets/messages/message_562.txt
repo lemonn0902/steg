@@ -1,0 +1,5 @@
+Patient ID: 81677
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug E
+Age: 30

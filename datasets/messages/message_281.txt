@@ -1,0 +1,5 @@
+Patient ID: 18002
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A, Drug E, Drug C
+Age: 42

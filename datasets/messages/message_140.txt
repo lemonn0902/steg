@@ -1,0 +1,5 @@
+Patient ID: 32852
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug D
+Age: 80

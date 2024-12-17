@@ -1,0 +1,5 @@
+Patient ID: 51328
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D
+Age: 82

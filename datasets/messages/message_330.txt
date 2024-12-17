@@ -1,0 +1,5 @@
+Patient ID: 91239
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug E, Drug C, Drug D
+Age: 72

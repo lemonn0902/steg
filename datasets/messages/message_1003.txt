@@ -1,0 +1,5 @@
+Patient ID: 25491
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 64

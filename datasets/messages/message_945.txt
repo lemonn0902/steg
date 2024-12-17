@@ -1,0 +1,5 @@
+Patient ID: 53122
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug E, Drug B, Drug C
+Age: 50

@@ -1,0 +1,5 @@
+Patient ID: 69402
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug B
+Age: 46

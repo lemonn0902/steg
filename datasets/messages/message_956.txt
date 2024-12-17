@@ -1,0 +1,5 @@
+Patient ID: 90582
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug B, Drug A
+Age: 83

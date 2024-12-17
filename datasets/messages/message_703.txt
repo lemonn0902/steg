@@ -1,0 +1,5 @@
+Patient ID: 14554
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug D, Drug B, Drug E
+Age: 85

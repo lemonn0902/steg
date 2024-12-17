@@ -1,0 +1,5 @@
+Patient ID: 44515
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug D, Drug C
+Age: 84

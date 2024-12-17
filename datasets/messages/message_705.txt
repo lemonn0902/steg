@@ -1,0 +1,5 @@
+Patient ID: 58549
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 52

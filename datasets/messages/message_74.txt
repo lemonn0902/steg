@@ -1,0 +1,5 @@
+Patient ID: 16226
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug A
+Age: 55

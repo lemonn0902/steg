@@ -1,0 +1,5 @@
+Patient ID: 90099
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug E, Drug B
+Age: 46

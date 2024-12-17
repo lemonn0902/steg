@@ -1,0 +1,5 @@
+Patient ID: 68850
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug B
+Age: 40

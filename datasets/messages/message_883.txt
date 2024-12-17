@@ -1,0 +1,5 @@
+Patient ID: 75212
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug C, Drug A
+Age: 31

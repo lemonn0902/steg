@@ -1,0 +1,5 @@
+Patient ID: 68204
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug B
+Age: 69

@@ -1,0 +1,5 @@
+Patient ID: 62232
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug B, Drug A, Drug C
+Age: 41

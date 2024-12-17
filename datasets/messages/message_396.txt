@@ -1,0 +1,5 @@
+Patient ID: 62563
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug E, Drug A, Drug B
+Age: 65

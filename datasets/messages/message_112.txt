@@ -1,0 +1,5 @@
+Patient ID: 37856
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D
+Age: 79

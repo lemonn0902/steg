@@ -1,0 +1,5 @@
+Patient ID: 44127
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug E, Drug B
+Age: 49

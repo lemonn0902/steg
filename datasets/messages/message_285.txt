@@ -1,0 +1,5 @@
+Patient ID: 25089
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug E, Drug A
+Age: 73

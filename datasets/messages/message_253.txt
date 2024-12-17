@@ -1,0 +1,5 @@
+Patient ID: 20933
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug D
+Age: 82

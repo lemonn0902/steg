@@ -1,0 +1,5 @@
+Patient ID: 25580
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug C
+Age: 74

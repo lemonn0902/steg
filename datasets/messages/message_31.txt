@@ -1,0 +1,5 @@
+Patient ID: 79264
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug A
+Age: 66

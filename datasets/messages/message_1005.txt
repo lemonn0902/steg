@@ -1,0 +1,5 @@
+Patient ID: 37717
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug D, Drug C
+Age: 27

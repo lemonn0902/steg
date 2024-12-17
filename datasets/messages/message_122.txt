@@ -1,0 +1,5 @@
+Patient ID: 72819
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug A
+Age: 34

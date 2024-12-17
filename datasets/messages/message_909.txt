@@ -1,0 +1,5 @@
+Patient ID: 89099
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug D
+Age: 64

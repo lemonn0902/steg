@@ -1,0 +1,5 @@
+Patient ID: 17704
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug D, Drug C
+Age: 89

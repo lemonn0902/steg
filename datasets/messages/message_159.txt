@@ -1,0 +1,5 @@
+Patient ID: 94286
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug C, Drug A
+Age: 42

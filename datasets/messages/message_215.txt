@@ -1,0 +1,5 @@
+Patient ID: 57507
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug D, Drug A, Drug C
+Age: 22

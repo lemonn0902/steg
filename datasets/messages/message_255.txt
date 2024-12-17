@@ -1,0 +1,5 @@
+Patient ID: 92858
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug D, Drug B
+Age: 37

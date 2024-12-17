@@ -1,0 +1,5 @@
+Patient ID: 18204
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug A, Drug D, Drug E
+Age: 85

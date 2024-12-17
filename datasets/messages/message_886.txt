@@ -1,0 +1,5 @@
+Patient ID: 69979
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug C
+Age: 24

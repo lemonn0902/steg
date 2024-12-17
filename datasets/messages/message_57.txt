@@ -1,0 +1,5 @@
+Patient ID: 82572
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug C, Drug D
+Age: 73

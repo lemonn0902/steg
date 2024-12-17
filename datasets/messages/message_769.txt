@@ -1,0 +1,5 @@
+Patient ID: 17685
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug B, Drug C, Drug A
+Age: 29

@@ -1,0 +1,5 @@
+Patient ID: 61035
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C
+Age: 88

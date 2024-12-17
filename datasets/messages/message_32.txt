@@ -1,0 +1,5 @@
+Patient ID: 32811
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug D
+Age: 36

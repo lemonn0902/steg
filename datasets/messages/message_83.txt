@@ -1,0 +1,5 @@
+Patient ID: 78905
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug D, Drug A, Drug B
+Age: 74

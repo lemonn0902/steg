@@ -1,0 +1,5 @@
+Patient ID: 50619
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug E
+Age: 66

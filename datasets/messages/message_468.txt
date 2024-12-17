@@ -1,0 +1,5 @@
+Patient ID: 90445
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug C, Drug A
+Age: 76

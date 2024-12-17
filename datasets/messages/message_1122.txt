@@ -1,0 +1,5 @@
+Patient ID: 66618
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug C, Drug E
+Age: 28

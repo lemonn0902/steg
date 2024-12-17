@@ -1,0 +1,5 @@
+Patient ID: 98876
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug A
+Age: 44

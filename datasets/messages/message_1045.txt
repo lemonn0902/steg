@@ -1,0 +1,5 @@
+Patient ID: 63227
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug D, Drug E
+Age: 70

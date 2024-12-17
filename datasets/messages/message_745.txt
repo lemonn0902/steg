@@ -1,0 +1,5 @@
+Patient ID: 90747
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug C
+Age: 69

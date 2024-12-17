@@ -1,0 +1,5 @@
+Patient ID: 57646
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug E, Drug D
+Age: 60

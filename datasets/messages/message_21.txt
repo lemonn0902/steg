@@ -1,0 +1,5 @@
+Patient ID: 50340
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug C
+Age: 41

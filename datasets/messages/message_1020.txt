@@ -1,0 +1,5 @@
+Patient ID: 29160
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B
+Age: 80

@@ -1,0 +1,5 @@
+Patient ID: 60900
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 36

@@ -1,0 +1,5 @@
+Patient ID: 17368
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug E
+Age: 49

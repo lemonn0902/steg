@@ -1,0 +1,5 @@
+Patient ID: 31722
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug C
+Age: 79

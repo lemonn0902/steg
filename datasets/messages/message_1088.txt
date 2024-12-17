@@ -1,0 +1,5 @@
+Patient ID: 92364
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug A, Drug D, Drug E
+Age: 35

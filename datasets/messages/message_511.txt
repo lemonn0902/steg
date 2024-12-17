@@ -1,0 +1,5 @@
+Patient ID: 32057
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug B
+Age: 71

@@ -1,0 +1,5 @@
+Patient ID: 75529
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug B, Drug E, Drug A
+Age: 78

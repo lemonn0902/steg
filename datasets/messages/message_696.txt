@@ -1,0 +1,5 @@
+Patient ID: 78664
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A, Drug C, Drug D
+Age: 73

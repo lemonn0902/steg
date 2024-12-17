@@ -1,0 +1,5 @@
+Patient ID: 80562
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug D
+Age: 38

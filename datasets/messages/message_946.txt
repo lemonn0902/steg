@@ -1,0 +1,5 @@
+Patient ID: 54306
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug E
+Age: 38

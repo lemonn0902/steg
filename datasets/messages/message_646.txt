@@ -1,0 +1,5 @@
+Patient ID: 20846
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug B, Drug A
+Age: 63

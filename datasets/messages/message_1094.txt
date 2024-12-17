@@ -1,0 +1,5 @@
+Patient ID: 21079
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug A, Drug B, Drug C
+Age: 74

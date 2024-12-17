@@ -1,0 +1,5 @@
+Patient ID: 47626
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug A, Drug E, Drug C
+Age: 55

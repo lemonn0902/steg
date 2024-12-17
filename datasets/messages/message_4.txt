@@ -1,0 +1,5 @@
+Patient ID: 22178
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug D
+Age: 89

@@ -1,0 +1,5 @@
+Patient ID: 78916
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug E, Drug B
+Age: 86

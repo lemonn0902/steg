@@ -1,0 +1,5 @@
+Patient ID: 22424
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug E, Drug A
+Age: 71

@@ -1,0 +1,5 @@
+Patient ID: 58350
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A, Drug C
+Age: 78

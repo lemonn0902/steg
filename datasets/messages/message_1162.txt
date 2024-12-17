@@ -1,0 +1,5 @@
+Patient ID: 23321
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug D, Drug A
+Age: 85

@@ -1,0 +1,5 @@
+Patient ID: 67985
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug C
+Age: 47

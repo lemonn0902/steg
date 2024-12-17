@@ -1,0 +1,5 @@
+Patient ID: 91146
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug D
+Age: 54

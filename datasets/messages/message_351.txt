@@ -1,0 +1,5 @@
+Patient ID: 90236
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 49

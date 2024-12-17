@@ -1,0 +1,5 @@
+Patient ID: 10225
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug B, Drug A
+Age: 36

@@ -1,0 +1,5 @@
+Patient ID: 13971
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug E, Drug C
+Age: 44

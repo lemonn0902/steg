@@ -1,0 +1,5 @@
+Patient ID: 98009
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug B, Drug C
+Age: 78

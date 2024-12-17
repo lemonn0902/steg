@@ -1,0 +1,5 @@
+Patient ID: 83304
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug E, Drug A
+Age: 41

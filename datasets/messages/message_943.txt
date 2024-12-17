@@ -1,0 +1,5 @@
+Patient ID: 55870
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug B, Drug A, Drug E
+Age: 83

@@ -1,0 +1,5 @@
+Patient ID: 18931
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug C, Drug A
+Age: 30

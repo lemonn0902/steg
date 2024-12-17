@@ -1,0 +1,5 @@
+Patient ID: 85546
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug C
+Age: 63

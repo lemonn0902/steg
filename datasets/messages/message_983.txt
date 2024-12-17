@@ -1,0 +1,5 @@
+Patient ID: 85257
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug D
+Age: 23

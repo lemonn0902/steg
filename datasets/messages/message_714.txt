@@ -1,0 +1,5 @@
+Patient ID: 18459
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug A, Drug C, Drug B
+Age: 63

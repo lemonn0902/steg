@@ -1,0 +1,5 @@
+Patient ID: 95796
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug E, Drug D
+Age: 43

@@ -1,0 +1,5 @@
+Patient ID: 15808
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug D, Drug A
+Age: 39

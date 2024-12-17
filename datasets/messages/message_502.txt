@@ -1,0 +1,5 @@
+Patient ID: 55330
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug B
+Age: 56

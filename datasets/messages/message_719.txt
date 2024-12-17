@@ -1,0 +1,5 @@
+Patient ID: 82653
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C
+Age: 57

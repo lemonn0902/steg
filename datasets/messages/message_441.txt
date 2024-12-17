@@ -1,0 +1,5 @@
+Patient ID: 15747
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug C, Drug E
+Age: 44

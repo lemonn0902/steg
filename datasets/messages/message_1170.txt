@@ -1,0 +1,5 @@
+Patient ID: 91815
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug D, Drug B
+Age: 81

@@ -1,0 +1,5 @@
+Patient ID: 74591
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug D
+Age: 82

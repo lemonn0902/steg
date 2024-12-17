@@ -1,0 +1,5 @@
+Patient ID: 30704
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug D
+Age: 20

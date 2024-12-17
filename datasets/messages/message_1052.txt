@@ -1,0 +1,5 @@
+Patient ID: 39158
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug C, Drug E, Drug A
+Age: 56

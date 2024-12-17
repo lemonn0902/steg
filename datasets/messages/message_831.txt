@@ -1,0 +1,5 @@
+Patient ID: 93036
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug B
+Age: 54

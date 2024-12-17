@@ -1,0 +1,5 @@
+Patient ID: 16475
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 74

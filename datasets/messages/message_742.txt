@@ -1,0 +1,5 @@
+Patient ID: 10554
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug A, Drug E
+Age: 69

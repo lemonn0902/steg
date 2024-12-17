@@ -1,0 +1,5 @@
+Patient ID: 78297
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug D, Drug A, Drug E
+Age: 88

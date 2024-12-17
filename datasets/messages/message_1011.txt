@@ -1,0 +1,5 @@
+Patient ID: 63766
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug C
+Age: 48

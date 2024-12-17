@@ -1,0 +1,5 @@
+Patient ID: 21702
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 60

@@ -1,0 +1,5 @@
+Patient ID: 62618
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug B
+Age: 72

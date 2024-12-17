@@ -1,0 +1,5 @@
+Patient ID: 86341
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug D
+Age: 24

@@ -1,0 +1,5 @@
+Patient ID: 34157
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug A, Drug D
+Age: 28

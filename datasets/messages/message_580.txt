@@ -1,0 +1,5 @@
+Patient ID: 38930
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug E
+Age: 63

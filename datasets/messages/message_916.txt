@@ -1,0 +1,5 @@
+Patient ID: 87330
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C
+Age: 32

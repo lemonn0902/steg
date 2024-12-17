@@ -1,0 +1,5 @@
+Patient ID: 98955
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D, Drug E
+Age: 52

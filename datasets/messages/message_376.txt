@@ -1,0 +1,5 @@
+Patient ID: 87762
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D, Drug E
+Age: 33

@@ -1,0 +1,5 @@
+Patient ID: 68676
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug A
+Age: 74

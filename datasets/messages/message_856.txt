@@ -1,0 +1,5 @@
+Patient ID: 85315
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug C
+Age: 55

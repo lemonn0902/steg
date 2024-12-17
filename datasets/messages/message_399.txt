@@ -1,0 +1,5 @@
+Patient ID: 47196
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug E, Drug A, Drug B
+Age: 88

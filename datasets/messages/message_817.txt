@@ -1,0 +1,5 @@
+Patient ID: 35513
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug C, Drug A, Drug D
+Age: 75

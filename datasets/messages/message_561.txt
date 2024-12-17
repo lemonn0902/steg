@@ -1,0 +1,5 @@
+Patient ID: 72851
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug C, Drug A
+Age: 38

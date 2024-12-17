@@ -1,0 +1,5 @@
+Patient ID: 25341
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug A
+Age: 24

@@ -1,0 +1,5 @@
+Patient ID: 37311
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C, Drug B
+Age: 83

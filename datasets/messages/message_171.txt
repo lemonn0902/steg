@@ -1,0 +1,5 @@
+Patient ID: 89738
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug C
+Age: 84

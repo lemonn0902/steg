@@ -1,0 +1,5 @@
+Patient ID: 44169
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug C, Drug D
+Age: 51

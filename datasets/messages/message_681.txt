@@ -1,0 +1,5 @@
+Patient ID: 77526
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D
+Age: 42

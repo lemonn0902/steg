@@ -1,0 +1,5 @@
+Patient ID: 73746
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug C, Drug E
+Age: 60

@@ -1,0 +1,5 @@
+Patient ID: 24873
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug D
+Age: 32

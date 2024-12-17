@@ -1,0 +1,5 @@
+Patient ID: 16650
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug B, Drug A
+Age: 43

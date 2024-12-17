@@ -1,0 +1,5 @@
+Patient ID: 58985
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug C, Drug E
+Age: 59

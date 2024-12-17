@@ -1,0 +1,5 @@
+Patient ID: 21273
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug C, Drug A
+Age: 56

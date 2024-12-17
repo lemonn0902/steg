@@ -1,0 +1,5 @@
+Patient ID: 16633
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 70

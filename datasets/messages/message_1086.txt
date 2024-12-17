@@ -1,0 +1,5 @@
+Patient ID: 99564
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug B
+Age: 46

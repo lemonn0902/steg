@@ -1,0 +1,5 @@
+Patient ID: 65555
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug D, Drug A, Drug B
+Age: 67

@@ -1,0 +1,5 @@
+Patient ID: 39682
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug A, Drug C
+Age: 45

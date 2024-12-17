@@ -1,0 +1,5 @@
+Patient ID: 78551
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug E, Drug A
+Age: 22

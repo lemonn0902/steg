@@ -1,0 +1,5 @@
+Patient ID: 13830
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug D, Drug E, Drug A
+Age: 51

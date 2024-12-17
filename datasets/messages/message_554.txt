@@ -1,0 +1,5 @@
+Patient ID: 46557
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C
+Age: 68

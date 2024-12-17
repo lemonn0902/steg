@@ -1,0 +1,5 @@
+Patient ID: 37351
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug C
+Age: 46

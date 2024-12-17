@@ -1,0 +1,5 @@
+Patient ID: 15427
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A
+Age: 48

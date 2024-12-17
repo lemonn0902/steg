@@ -1,0 +1,5 @@
+Patient ID: 80271
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug C
+Age: 34

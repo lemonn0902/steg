@@ -1,0 +1,5 @@
+Patient ID: 48657
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug C, Drug B, Drug E
+Age: 39

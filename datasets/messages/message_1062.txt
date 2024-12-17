@@ -1,0 +1,5 @@
+Patient ID: 90278
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug D, Drug E
+Age: 28

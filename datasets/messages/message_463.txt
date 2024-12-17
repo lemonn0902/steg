@@ -1,0 +1,5 @@
+Patient ID: 27548
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug A, Drug B
+Age: 59

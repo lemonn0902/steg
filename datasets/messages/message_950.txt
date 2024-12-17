@@ -1,0 +1,5 @@
+Patient ID: 85515
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug E, Drug C
+Age: 78

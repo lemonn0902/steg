@@ -1,0 +1,5 @@
+Patient ID: 45507
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D
+Age: 42

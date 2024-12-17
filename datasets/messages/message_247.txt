@@ -1,0 +1,5 @@
+Patient ID: 53890
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug B, Drug A, Drug C
+Age: 35

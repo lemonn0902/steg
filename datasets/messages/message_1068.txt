@@ -1,0 +1,5 @@
+Patient ID: 58881
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug A
+Age: 73

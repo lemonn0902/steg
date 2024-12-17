@@ -1,0 +1,5 @@
+Patient ID: 22531
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug C, Drug B
+Age: 72

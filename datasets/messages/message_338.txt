@@ -1,0 +1,5 @@
+Patient ID: 94368
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug D, Drug A
+Age: 44

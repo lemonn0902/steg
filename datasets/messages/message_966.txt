@@ -1,0 +1,5 @@
+Patient ID: 31221
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug E
+Age: 69

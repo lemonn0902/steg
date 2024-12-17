@@ -1,0 +1,5 @@
+Patient ID: 11748
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug E
+Age: 77

@@ -1,0 +1,5 @@
+Patient ID: 20223
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug D, Drug A
+Age: 54

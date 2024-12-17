@@ -1,0 +1,5 @@
+Patient ID: 53562
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A, Drug D
+Age: 40

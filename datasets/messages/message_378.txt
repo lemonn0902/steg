@@ -1,0 +1,5 @@
+Patient ID: 71043
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug D
+Age: 25

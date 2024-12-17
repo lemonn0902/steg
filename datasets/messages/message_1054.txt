@@ -1,0 +1,5 @@
+Patient ID: 92732
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug E, Drug B, Drug D
+Age: 30

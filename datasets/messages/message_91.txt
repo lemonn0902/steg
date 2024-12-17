@@ -1,0 +1,5 @@
+Patient ID: 73428
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug E, Drug B, Drug C
+Age: 73

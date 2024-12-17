@@ -1,0 +1,5 @@
+Patient ID: 33788
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug D
+Age: 32

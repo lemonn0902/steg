@@ -1,0 +1,5 @@
+Patient ID: 31431
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug C
+Age: 62

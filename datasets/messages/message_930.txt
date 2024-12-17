@@ -1,0 +1,5 @@
+Patient ID: 44150
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug E
+Age: 44

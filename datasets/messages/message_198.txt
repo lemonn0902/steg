@@ -1,0 +1,5 @@
+Patient ID: 85639
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 48

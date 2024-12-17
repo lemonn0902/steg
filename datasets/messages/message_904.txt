@@ -1,0 +1,5 @@
+Patient ID: 45811
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug B
+Age: 74

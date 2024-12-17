@@ -1,0 +1,5 @@
+Patient ID: 85305
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug B
+Age: 64

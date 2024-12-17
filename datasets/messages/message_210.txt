@@ -1,0 +1,5 @@
+Patient ID: 53409
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug D
+Age: 70

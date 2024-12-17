@@ -1,0 +1,5 @@
+Patient ID: 83888
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug B
+Age: 63

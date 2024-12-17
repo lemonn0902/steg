@@ -1,0 +1,5 @@
+Patient ID: 83416
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug C, Drug B, Drug A
+Age: 81

@@ -1,0 +1,5 @@
+Patient ID: 26583
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug B
+Age: 22

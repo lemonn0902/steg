@@ -1,0 +1,5 @@
+Patient ID: 92734
+Blood Type: A-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug E
+Age: 59

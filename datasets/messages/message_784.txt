@@ -1,0 +1,5 @@
+Patient ID: 45583
+Blood Type: AB+
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug C, Drug E
+Age: 79

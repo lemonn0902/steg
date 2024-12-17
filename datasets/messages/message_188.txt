@@ -1,0 +1,5 @@
+Patient ID: 39185
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A
+Age: 67

@@ -1,0 +1,5 @@
+Patient ID: 77762
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug C
+Age: 60

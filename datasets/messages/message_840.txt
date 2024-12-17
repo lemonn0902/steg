@@ -1,0 +1,5 @@
+Patient ID: 26436
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug A
+Age: 86

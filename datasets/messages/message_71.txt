@@ -1,0 +1,5 @@
+Patient ID: 25407
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug E, Drug B, Drug D
+Age: 88

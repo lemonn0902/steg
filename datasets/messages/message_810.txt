@@ -1,0 +1,5 @@
+Patient ID: 54472
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug E, Drug C
+Age: 58

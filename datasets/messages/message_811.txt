@@ -1,0 +1,5 @@
+Patient ID: 71041
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug E, Drug B
+Age: 40

@@ -1,0 +1,5 @@
+Patient ID: 89551
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug A, Drug D
+Age: 66

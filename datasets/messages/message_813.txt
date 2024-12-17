@@ -1,0 +1,5 @@
+Patient ID: 25976
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug B
+Age: 33

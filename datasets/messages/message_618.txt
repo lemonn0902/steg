@@ -1,0 +1,5 @@
+Patient ID: 34751
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug C, Drug E
+Age: 32

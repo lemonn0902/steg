@@ -1,0 +1,5 @@
+Patient ID: 73789
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug B, Drug A
+Age: 31

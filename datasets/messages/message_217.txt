@@ -1,0 +1,5 @@
+Patient ID: 20273
+Blood Type: AB-
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug B
+Age: 46

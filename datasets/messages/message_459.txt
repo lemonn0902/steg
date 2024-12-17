@@ -1,0 +1,5 @@
+Patient ID: 31206
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 75

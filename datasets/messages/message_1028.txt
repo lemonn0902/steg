@@ -1,0 +1,5 @@
+Patient ID: 82754
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug D
+Age: 34

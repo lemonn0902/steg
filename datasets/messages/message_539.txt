@@ -1,0 +1,5 @@
+Patient ID: 48715
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug A, Drug D
+Age: 47

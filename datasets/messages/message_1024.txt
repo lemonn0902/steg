@@ -1,0 +1,5 @@
+Patient ID: 77690
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug A
+Age: 81

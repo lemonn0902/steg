@@ -1,0 +1,5 @@
+Patient ID: 73897
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug B
+Age: 20

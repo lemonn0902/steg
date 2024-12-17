@@ -1,0 +1,5 @@
+Patient ID: 19241
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug B
+Age: 49

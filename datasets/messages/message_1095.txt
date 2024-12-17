@@ -1,0 +1,5 @@
+Patient ID: 35325
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug B
+Age: 28

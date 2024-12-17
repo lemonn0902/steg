@@ -1,0 +1,5 @@
+Patient ID: 47302
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug E
+Age: 36

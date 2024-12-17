@@ -1,0 +1,5 @@
+Patient ID: 45021
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug C, Drug B, Drug E
+Age: 64

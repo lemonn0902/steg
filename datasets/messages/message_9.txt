@@ -1,0 +1,5 @@
+Patient ID: 35155
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug A, Drug E
+Age: 22

@@ -1,0 +1,5 @@
+Patient ID: 36304
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug E
+Age: 77

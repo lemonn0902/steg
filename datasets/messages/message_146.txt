@@ -1,0 +1,5 @@
+Patient ID: 70787
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug B, Drug E
+Age: 32

@@ -1,0 +1,5 @@
+Patient ID: 97627
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug E, Drug D, Drug C
+Age: 69

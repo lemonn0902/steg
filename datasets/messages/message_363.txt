@@ -1,0 +1,5 @@
+Patient ID: 80365
+Blood Type: O-
+Diagnosis: Stroke
+Medications: Drug D, Drug C
+Age: 73

@@ -1,0 +1,5 @@
+Patient ID: 93123
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug A, Drug D
+Age: 20

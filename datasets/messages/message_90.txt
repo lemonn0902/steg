@@ -1,0 +1,5 @@
+Patient ID: 72936
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug A
+Age: 72

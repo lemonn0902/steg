@@ -1,0 +1,5 @@
+Patient ID: 24120
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug D, Drug E
+Age: 36

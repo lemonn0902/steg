@@ -1,0 +1,5 @@
+Patient ID: 90017
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug E, Drug A
+Age: 56

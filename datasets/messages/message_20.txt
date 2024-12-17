@@ -1,0 +1,5 @@
+Patient ID: 47101
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug E, Drug C, Drug B
+Age: 81

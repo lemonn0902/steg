@@ -1,0 +1,5 @@
+Patient ID: 95273
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug D
+Age: 83

@@ -1,0 +1,5 @@
+Patient ID: 62210
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug D, Drug B
+Age: 67

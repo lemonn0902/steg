@@ -1,0 +1,5 @@
+Patient ID: 14532
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug B
+Age: 88

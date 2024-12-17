@@ -1,0 +1,5 @@
+Patient ID: 32753
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug C, Drug E
+Age: 25

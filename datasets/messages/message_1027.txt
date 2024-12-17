@@ -1,0 +1,5 @@
+Patient ID: 53436
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug E, Drug C
+Age: 39

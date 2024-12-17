@@ -1,0 +1,5 @@
+Patient ID: 81073
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug C, Drug E, Drug B
+Age: 86

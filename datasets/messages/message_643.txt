@@ -1,0 +1,5 @@
+Patient ID: 83892
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug C
+Age: 63

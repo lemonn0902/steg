@@ -1,0 +1,5 @@
+Patient ID: 70816
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug C
+Age: 43

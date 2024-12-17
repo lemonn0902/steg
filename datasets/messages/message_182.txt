@@ -1,0 +1,5 @@
+Patient ID: 93070
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 41

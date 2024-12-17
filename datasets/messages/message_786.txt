@@ -1,0 +1,5 @@
+Patient ID: 30725
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug D
+Age: 51

@@ -1,0 +1,5 @@
+Patient ID: 16802
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug C
+Age: 21

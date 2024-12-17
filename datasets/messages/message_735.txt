@@ -1,0 +1,5 @@
+Patient ID: 74955
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug B
+Age: 51

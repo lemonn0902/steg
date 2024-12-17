@@ -1,0 +1,5 @@
+Patient ID: 58713
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug E
+Age: 41

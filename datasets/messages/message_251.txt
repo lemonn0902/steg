@@ -1,0 +1,5 @@
+Patient ID: 42075
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug B, Drug E, Drug C
+Age: 59

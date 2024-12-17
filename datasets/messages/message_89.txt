@@ -1,0 +1,5 @@
+Patient ID: 73857
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug B, Drug A, Drug D
+Age: 76

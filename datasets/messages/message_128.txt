@@ -1,0 +1,5 @@
+Patient ID: 79981
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug A, Drug C
+Age: 60

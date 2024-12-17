@@ -1,0 +1,5 @@
+Patient ID: 24319
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug D, Drug B
+Age: 78

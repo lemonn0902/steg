@@ -1,0 +1,5 @@
+Patient ID: 55529
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug E
+Age: 43

@@ -1,0 +1,5 @@
+Patient ID: 72119
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug B, Drug E
+Age: 59

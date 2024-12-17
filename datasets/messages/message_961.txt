@@ -1,0 +1,5 @@
+Patient ID: 75828
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug B
+Age: 36

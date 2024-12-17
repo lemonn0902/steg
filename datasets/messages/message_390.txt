@@ -1,0 +1,5 @@
+Patient ID: 55973
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug D
+Age: 66

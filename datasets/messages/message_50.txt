@@ -1,0 +1,5 @@
+Patient ID: 75917
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug B, Drug D, Drug C
+Age: 49

@@ -1,0 +1,5 @@
+Patient ID: 14275
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug E
+Age: 41

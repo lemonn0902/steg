@@ -1,0 +1,5 @@
+Patient ID: 99409
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug D
+Age: 41

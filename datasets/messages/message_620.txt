@@ -1,0 +1,5 @@
+Patient ID: 82990
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug C, Drug E
+Age: 49

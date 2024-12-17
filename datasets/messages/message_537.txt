@@ -1,0 +1,5 @@
+Patient ID: 83553
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A, Drug E, Drug B
+Age: 72

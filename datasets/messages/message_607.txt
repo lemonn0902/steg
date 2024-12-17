@@ -1,0 +1,5 @@
+Patient ID: 10385
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug B, Drug C, Drug E
+Age: 74

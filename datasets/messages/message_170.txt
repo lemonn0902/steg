@@ -1,0 +1,5 @@
+Patient ID: 65119
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug B, Drug C
+Age: 88

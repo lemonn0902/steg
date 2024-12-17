@@ -1,0 +1,5 @@
+Patient ID: 10284
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug A, Drug D
+Age: 66

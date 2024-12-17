@@ -1,0 +1,5 @@
+Patient ID: 88233
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug C, Drug A
+Age: 59

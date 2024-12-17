@@ -1,0 +1,5 @@
+Patient ID: 18006
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug D, Drug B
+Age: 87

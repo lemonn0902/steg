@@ -1,0 +1,5 @@
+Patient ID: 45343
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug C, Drug E
+Age: 68

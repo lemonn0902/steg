@@ -1,0 +1,5 @@
+Patient ID: 23773
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug C
+Age: 31

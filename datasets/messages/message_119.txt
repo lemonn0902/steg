@@ -1,0 +1,5 @@
+Patient ID: 83345
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug C, Drug D
+Age: 58

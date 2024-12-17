@@ -1,0 +1,5 @@
+Patient ID: 31665
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A, Drug D, Drug C
+Age: 31

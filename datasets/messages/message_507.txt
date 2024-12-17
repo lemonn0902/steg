@@ -1,0 +1,5 @@
+Patient ID: 44709
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 22

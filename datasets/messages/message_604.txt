@@ -1,0 +1,5 @@
+Patient ID: 48626
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug C, Drug A, Drug D
+Age: 79

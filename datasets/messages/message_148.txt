@@ -1,0 +1,5 @@
+Patient ID: 78843
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug B, Drug E
+Age: 25

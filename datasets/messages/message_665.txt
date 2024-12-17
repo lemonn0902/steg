@@ -1,0 +1,5 @@
+Patient ID: 51379
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug A, Drug E
+Age: 56

@@ -1,0 +1,5 @@
+Patient ID: 75918
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 71

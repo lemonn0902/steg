@@ -1,0 +1,5 @@
+Patient ID: 47022
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug E
+Age: 21

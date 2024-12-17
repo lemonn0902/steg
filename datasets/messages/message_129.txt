@@ -1,0 +1,5 @@
+Patient ID: 85808
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug D, Drug C, Drug E
+Age: 59

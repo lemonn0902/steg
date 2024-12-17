@@ -1,0 +1,5 @@
+Patient ID: 25053
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug B, Drug D, Drug E
+Age: 45

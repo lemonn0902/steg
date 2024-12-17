@@ -1,0 +1,5 @@
+Patient ID: 60919
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug D
+Age: 59

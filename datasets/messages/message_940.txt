@@ -1,0 +1,5 @@
+Patient ID: 28303
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug D, Drug B
+Age: 78

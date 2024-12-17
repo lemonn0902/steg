@@ -1,0 +1,5 @@
+Patient ID: 46626
+Blood Type: A-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug C
+Age: 51

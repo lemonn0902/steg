@@ -1,0 +1,5 @@
+Patient ID: 57836
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D, Drug C
+Age: 45

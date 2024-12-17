@@ -1,0 +1,5 @@
+Patient ID: 49326
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug D
+Age: 20

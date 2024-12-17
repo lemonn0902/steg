@@ -1,0 +1,5 @@
+Patient ID: 86401
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug C
+Age: 55

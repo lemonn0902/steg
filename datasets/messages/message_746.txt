@@ -1,0 +1,5 @@
+Patient ID: 61755
+Blood Type: A-
+Diagnosis: Stroke
+Medications: Drug E, Drug C
+Age: 81

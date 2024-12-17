@@ -1,0 +1,5 @@
+Patient ID: 86431
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug E, Drug D, Drug C
+Age: 51

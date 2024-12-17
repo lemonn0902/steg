@@ -1,0 +1,5 @@
+Patient ID: 99037
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug C
+Age: 35

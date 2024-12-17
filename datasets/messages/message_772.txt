@@ -1,0 +1,5 @@
+Patient ID: 77879
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug D, Drug A
+Age: 40

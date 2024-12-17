@@ -1,0 +1,5 @@
+Patient ID: 60473
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug D
+Age: 61

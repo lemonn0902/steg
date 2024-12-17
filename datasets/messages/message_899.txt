@@ -1,0 +1,5 @@
+Patient ID: 47938
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug C, Drug A, Drug E
+Age: 81

@@ -1,0 +1,5 @@
+Patient ID: 93590
+Blood Type: AB+
+Diagnosis: Stroke
+Medications: Drug E, Drug C, Drug A
+Age: 83

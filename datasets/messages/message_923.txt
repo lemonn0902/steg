@@ -1,0 +1,5 @@
+Patient ID: 45238
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D, Drug C
+Age: 69

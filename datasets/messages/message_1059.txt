@@ -1,0 +1,5 @@
+Patient ID: 18638
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug C, Drug B
+Age: 73

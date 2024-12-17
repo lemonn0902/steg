@@ -1,0 +1,5 @@
+Patient ID: 78205
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug C
+Age: 28

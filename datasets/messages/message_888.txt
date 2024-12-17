@@ -1,0 +1,5 @@
+Patient ID: 11043
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug D
+Age: 44

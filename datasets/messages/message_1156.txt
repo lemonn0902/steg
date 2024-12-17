@@ -1,0 +1,5 @@
+Patient ID: 82614
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug A, Drug C
+Age: 86

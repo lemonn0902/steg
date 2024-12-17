@@ -1,0 +1,5 @@
+Patient ID: 23090
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug C, Drug E
+Age: 89

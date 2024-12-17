@@ -1,0 +1,5 @@
+Patient ID: 99032
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug A, Drug D
+Age: 46

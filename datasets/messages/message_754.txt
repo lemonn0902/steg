@@ -1,0 +1,5 @@
+Patient ID: 45184
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug D, Drug E
+Age: 23

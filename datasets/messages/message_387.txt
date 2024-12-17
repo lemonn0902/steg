@@ -1,0 +1,5 @@
+Patient ID: 10883
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug C
+Age: 54

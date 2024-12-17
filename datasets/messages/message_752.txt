@@ -1,0 +1,5 @@
+Patient ID: 35950
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug C, Drug D, Drug A
+Age: 53

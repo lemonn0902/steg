@@ -1,0 +1,5 @@
+Patient ID: 40055
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug C, Drug D
+Age: 66

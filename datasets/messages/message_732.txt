@@ -1,0 +1,5 @@
+Patient ID: 66254
+Blood Type: AB-
+Diagnosis: Heart Disease
+Medications: Drug B, Drug E, Drug A
+Age: 42

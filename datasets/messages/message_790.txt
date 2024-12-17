@@ -1,0 +1,5 @@
+Patient ID: 82620
+Blood Type: A-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug E, Drug C
+Age: 25

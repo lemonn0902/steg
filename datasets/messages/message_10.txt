@@ -1,0 +1,5 @@
+Patient ID: 47608
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug A
+Age: 46

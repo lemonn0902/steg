@@ -1,0 +1,5 @@
+Patient ID: 26734
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug E
+Age: 55

@@ -1,0 +1,5 @@
+Patient ID: 46425
+Blood Type: B+
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug C
+Age: 30

@@ -1,0 +1,5 @@
+Patient ID: 36940
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug C
+Age: 34

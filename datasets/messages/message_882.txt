@@ -1,0 +1,5 @@
+Patient ID: 34627
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug E
+Age: 72

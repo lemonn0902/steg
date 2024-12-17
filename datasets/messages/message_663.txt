@@ -1,0 +1,5 @@
+Patient ID: 78531
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug A, Drug B, Drug D
+Age: 76

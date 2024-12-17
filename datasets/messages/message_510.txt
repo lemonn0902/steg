@@ -1,0 +1,5 @@
+Patient ID: 67185
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug A
+Age: 48

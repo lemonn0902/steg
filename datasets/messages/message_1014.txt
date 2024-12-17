@@ -1,0 +1,5 @@
+Patient ID: 29518
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 37

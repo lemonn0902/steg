@@ -1,0 +1,5 @@
+Patient ID: 33844
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug B, Drug D, Drug E
+Age: 25

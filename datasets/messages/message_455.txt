@@ -1,0 +1,5 @@
+Patient ID: 15938
+Blood Type: O+
+Diagnosis: Stroke
+Medications: Drug E, Drug C
+Age: 39

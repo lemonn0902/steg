@@ -1,0 +1,5 @@
+Patient ID: 12649
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug D, Drug A
+Age: 78

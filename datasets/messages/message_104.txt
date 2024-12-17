@@ -1,0 +1,5 @@
+Patient ID: 64245
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug E
+Age: 54

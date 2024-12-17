@@ -1,0 +1,5 @@
+Patient ID: 82396
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug C, Drug D
+Age: 59

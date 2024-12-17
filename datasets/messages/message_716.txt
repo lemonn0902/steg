@@ -1,0 +1,5 @@
+Patient ID: 74912
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug D, Drug E, Drug C
+Age: 25

@@ -1,0 +1,5 @@
+Patient ID: 95935
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug B
+Age: 78

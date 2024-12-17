@@ -1,0 +1,5 @@
+Patient ID: 29658
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug C
+Age: 70

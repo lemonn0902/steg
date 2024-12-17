@@ -1,0 +1,5 @@
+Patient ID: 23892
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 52

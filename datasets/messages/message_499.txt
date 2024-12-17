@@ -1,0 +1,5 @@
+Patient ID: 56430
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug C, Drug B
+Age: 39

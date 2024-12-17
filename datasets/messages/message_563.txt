@@ -1,0 +1,5 @@
+Patient ID: 21581
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug B
+Age: 78

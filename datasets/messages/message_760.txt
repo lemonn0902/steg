@@ -1,0 +1,5 @@
+Patient ID: 76971
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug A
+Age: 25

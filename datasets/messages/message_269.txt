@@ -1,0 +1,5 @@
+Patient ID: 25633
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug A
+Age: 79

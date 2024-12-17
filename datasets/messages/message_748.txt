@@ -1,0 +1,5 @@
+Patient ID: 56250
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug A, Drug C
+Age: 64

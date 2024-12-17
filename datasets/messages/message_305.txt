@@ -1,0 +1,5 @@
+Patient ID: 79949
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug D, Drug A
+Age: 85

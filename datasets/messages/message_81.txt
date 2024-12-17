@@ -1,0 +1,5 @@
+Patient ID: 37714
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug A, Drug E
+Age: 21

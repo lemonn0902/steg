@@ -1,0 +1,5 @@
+Patient ID: 98485
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug E
+Age: 32

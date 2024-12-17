@@ -1,0 +1,5 @@
+Patient ID: 91602
+Blood Type: O+
+Diagnosis: Fracture
+Medications: Drug B, Drug C, Drug E
+Age: 68

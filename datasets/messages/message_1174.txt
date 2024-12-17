@@ -1,0 +1,5 @@
+Patient ID: 10346
+Blood Type: AB-
+Diagnosis: Infection
+Medications: Drug D
+Age: 88

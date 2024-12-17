@@ -1,0 +1,5 @@
+Patient ID: 47302
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug E
+Age: 21

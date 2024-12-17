@@ -1,0 +1,5 @@
+Patient ID: 83458
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug D, Drug B
+Age: 20

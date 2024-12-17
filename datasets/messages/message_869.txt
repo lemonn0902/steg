@@ -1,0 +1,5 @@
+Patient ID: 52705
+Blood Type: O-
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 66

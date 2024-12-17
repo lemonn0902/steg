@@ -1,0 +1,5 @@
+Patient ID: 23954
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug E, Drug D, Drug A
+Age: 55

@@ -1,0 +1,5 @@
+Patient ID: 89361
+Blood Type: AB+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug B
+Age: 47

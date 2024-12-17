@@ -1,0 +1,5 @@
+Patient ID: 43461
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug A
+Age: 71

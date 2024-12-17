@@ -1,0 +1,5 @@
+Patient ID: 12863
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug D, Drug C, Drug E
+Age: 71

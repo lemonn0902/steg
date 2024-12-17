@@ -1,0 +1,5 @@
+Patient ID: 24637
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug D, Drug E
+Age: 32

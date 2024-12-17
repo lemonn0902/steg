@@ -1,0 +1,5 @@
+Patient ID: 11552
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug A, Drug C, Drug D
+Age: 27

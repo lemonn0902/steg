@@ -1,0 +1,5 @@
+Patient ID: 36420
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug E, Drug D
+Age: 62

@@ -1,0 +1,5 @@
+Patient ID: 10918
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug D, Drug E, Drug B
+Age: 82

@@ -1,0 +1,5 @@
+Patient ID: 34164
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 23

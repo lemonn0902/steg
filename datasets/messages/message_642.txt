@@ -1,0 +1,5 @@
+Patient ID: 20543
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug D, Drug B, Drug C
+Age: 56

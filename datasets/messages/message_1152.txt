@@ -1,0 +1,5 @@
+Patient ID: 29649
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug A, Drug D, Drug C
+Age: 26

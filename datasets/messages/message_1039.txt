@@ -1,0 +1,5 @@
+Patient ID: 58343
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug B, Drug A, Drug C
+Age: 76

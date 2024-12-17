@@ -1,0 +1,5 @@
+Patient ID: 71536
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug E
+Age: 68

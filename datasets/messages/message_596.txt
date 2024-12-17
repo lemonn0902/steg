@@ -1,0 +1,5 @@
+Patient ID: 30125
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug A, Drug D
+Age: 69

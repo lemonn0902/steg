@@ -1,0 +1,5 @@
+Patient ID: 63228
+Blood Type: AB+
+Diagnosis: Lung Cancer
+Medications: Drug E, Drug A
+Age: 62

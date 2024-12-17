@@ -1,0 +1,5 @@
+Patient ID: 55467
+Blood Type: B+
+Diagnosis: Fracture
+Medications: Drug C
+Age: 78

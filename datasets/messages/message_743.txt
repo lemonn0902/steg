@@ -1,0 +1,5 @@
+Patient ID: 54347
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug C, Drug B
+Age: 89

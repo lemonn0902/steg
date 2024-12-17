@@ -1,0 +1,5 @@
+Patient ID: 98319
+Blood Type: A+
+Diagnosis: Stroke
+Medications: Drug A
+Age: 60

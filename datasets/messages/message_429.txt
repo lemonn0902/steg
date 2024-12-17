@@ -1,0 +1,5 @@
+Patient ID: 18480
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug E, Drug A, Drug B
+Age: 89

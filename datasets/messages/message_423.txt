@@ -1,0 +1,5 @@
+Patient ID: 92783
+Blood Type: B+
+Diagnosis: Stroke
+Medications: Drug E, Drug D
+Age: 82

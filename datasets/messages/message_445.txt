@@ -1,0 +1,5 @@
+Patient ID: 57072
+Blood Type: O-
+Diagnosis: Heart Disease
+Medications: Drug B, Drug D, Drug E
+Age: 88

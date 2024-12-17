@@ -1,0 +1,5 @@
+Patient ID: 45406
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug E, Drug C, Drug B
+Age: 21

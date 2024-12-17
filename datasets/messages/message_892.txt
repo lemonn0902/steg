@@ -1,0 +1,5 @@
+Patient ID: 63842
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug B, Drug C
+Age: 41

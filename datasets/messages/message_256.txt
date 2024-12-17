@@ -1,0 +1,5 @@
+Patient ID: 72162
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug B, Drug A
+Age: 78

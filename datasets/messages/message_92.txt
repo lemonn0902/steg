@@ -1,0 +1,5 @@
+Patient ID: 29090
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug E
+Age: 51

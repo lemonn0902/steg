@@ -1,0 +1,5 @@
+Patient ID: 95416
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug A
+Age: 44

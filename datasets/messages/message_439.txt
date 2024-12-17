@@ -1,0 +1,5 @@
+Patient ID: 59324
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug E
+Age: 56

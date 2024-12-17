@@ -1,0 +1,5 @@
+Patient ID: 47378
+Blood Type: O+
+Diagnosis: Lung Cancer
+Medications: Drug A
+Age: 24

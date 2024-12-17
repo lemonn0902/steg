@@ -1,0 +1,5 @@
+Patient ID: 44276
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug D, Drug A
+Age: 53

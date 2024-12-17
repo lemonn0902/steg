@@ -1,0 +1,5 @@
+Patient ID: 62601
+Blood Type: B-
+Diagnosis: Stroke
+Medications: Drug A
+Age: 76

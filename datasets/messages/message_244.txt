@@ -1,0 +1,5 @@
+Patient ID: 95575
+Blood Type: O-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug E, Drug B
+Age: 73

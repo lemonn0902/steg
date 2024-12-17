@@ -1,0 +1,5 @@
+Patient ID: 37122
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug B, Drug E, Drug D
+Age: 76

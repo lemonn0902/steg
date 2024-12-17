@@ -1,0 +1,5 @@
+Patient ID: 46109
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug D
+Age: 60

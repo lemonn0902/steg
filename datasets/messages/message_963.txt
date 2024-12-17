@@ -1,0 +1,5 @@
+Patient ID: 72175
+Blood Type: O+
+Diagnosis: Heart Disease
+Medications: Drug B, Drug E, Drug C
+Age: 49

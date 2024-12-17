@@ -1,0 +1,5 @@
+Patient ID: 55752
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 24

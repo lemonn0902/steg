@@ -1,0 +1,5 @@
+Patient ID: 32535
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug B, Drug D, Drug C
+Age: 80

@@ -1,0 +1,5 @@
+Patient ID: 61899
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug B, Drug E, Drug C
+Age: 69

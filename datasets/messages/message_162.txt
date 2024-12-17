@@ -1,0 +1,5 @@
+Patient ID: 11612
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug C, Drug D
+Age: 44

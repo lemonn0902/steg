@@ -1,0 +1,5 @@
+Patient ID: 76950
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug B, Drug C, Drug A
+Age: 33

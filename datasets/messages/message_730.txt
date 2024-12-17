@@ -1,0 +1,5 @@
+Patient ID: 93481
+Blood Type: B-
+Diagnosis: Heart Disease
+Medications: Drug C, Drug D, Drug B
+Age: 58

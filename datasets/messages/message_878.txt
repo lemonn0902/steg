@@ -1,0 +1,5 @@
+Patient ID: 29866
+Blood Type: A+
+Diagnosis: Heart Disease
+Medications: Drug D, Drug C
+Age: 65

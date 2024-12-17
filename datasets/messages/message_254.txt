@@ -1,0 +1,5 @@
+Patient ID: 87724
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C, Drug B, Drug D
+Age: 73

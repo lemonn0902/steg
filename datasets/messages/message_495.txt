@@ -1,0 +1,5 @@
+Patient ID: 33400
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug B, Drug E
+Age: 41

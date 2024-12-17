@@ -1,0 +1,5 @@
+Patient ID: 61637
+Blood Type: AB+
+Diagnosis: Fracture
+Medications: Drug D
+Age: 76

@@ -1,0 +1,5 @@
+Patient ID: 57312
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug E, Drug D, Drug A
+Age: 40

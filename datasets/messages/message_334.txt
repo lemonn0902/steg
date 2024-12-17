@@ -1,0 +1,5 @@
+Patient ID: 48998
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug E, Drug A, Drug C
+Age: 27

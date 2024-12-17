@@ -1,0 +1,5 @@
+Patient ID: 27179
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug E, Drug C
+Age: 42

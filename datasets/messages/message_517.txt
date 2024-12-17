@@ -1,0 +1,5 @@
+Patient ID: 48930
+Blood Type: B+
+Diagnosis: Brain Tumor
+Medications: Drug C
+Age: 74

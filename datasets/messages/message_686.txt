@@ -1,0 +1,5 @@
+Patient ID: 36656
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug B, Drug A
+Age: 55

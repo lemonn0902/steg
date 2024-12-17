@@ -1,0 +1,5 @@
+Patient ID: 49267
+Blood Type: O-
+Diagnosis: Infection
+Medications: Drug D
+Age: 43

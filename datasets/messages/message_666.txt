@@ -1,0 +1,5 @@
+Patient ID: 22437
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug A, Drug D, Drug E
+Age: 44

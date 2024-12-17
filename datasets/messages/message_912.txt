@@ -1,0 +1,5 @@
+Patient ID: 80341
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug E, Drug A
+Age: 73

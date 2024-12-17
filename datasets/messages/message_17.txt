@@ -1,0 +1,5 @@
+Patient ID: 41464
+Blood Type: A+
+Diagnosis: Fracture
+Medications: Drug A
+Age: 40

@@ -1,0 +1,5 @@
+Patient ID: 46664
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug A
+Age: 29

@@ -1,0 +1,5 @@
+Patient ID: 39565
+Blood Type: AB-
+Diagnosis: Brain Tumor
+Medications: Drug C
+Age: 27

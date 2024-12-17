@@ -1,0 +1,5 @@
+Patient ID: 98984
+Blood Type: A-
+Diagnosis: Infection
+Medications: Drug D
+Age: 45

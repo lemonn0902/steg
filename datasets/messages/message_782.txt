@@ -1,0 +1,5 @@
+Patient ID: 56704
+Blood Type: O+
+Diagnosis: Infection
+Medications: Drug A
+Age: 87

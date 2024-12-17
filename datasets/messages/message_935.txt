@@ -1,0 +1,5 @@
+Patient ID: 73666
+Blood Type: B+
+Diagnosis: Infection
+Medications: Drug C
+Age: 69

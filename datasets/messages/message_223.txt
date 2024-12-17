@@ -1,0 +1,5 @@
+Patient ID: 21008
+Blood Type: O+
+Diagnosis: Brain Tumor
+Medications: Drug D
+Age: 85

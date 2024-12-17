@@ -1,0 +1,5 @@
+Patient ID: 46683
+Blood Type: O-
+Diagnosis: Fracture
+Medications: Drug B, Drug A
+Age: 76

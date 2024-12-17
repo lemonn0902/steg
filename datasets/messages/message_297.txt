@@ -1,0 +1,5 @@
+Patient ID: 98414
+Blood Type: AB+
+Diagnosis: Infection
+Medications: Drug E, Drug B, Drug C
+Age: 79

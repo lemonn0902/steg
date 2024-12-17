@@ -1,0 +1,5 @@
+Patient ID: 59070
+Blood Type: AB-
+Diagnosis: Fracture
+Medications: Drug A
+Age: 81

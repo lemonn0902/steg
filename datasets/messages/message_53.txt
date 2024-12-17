@@ -1,0 +1,5 @@
+Patient ID: 93252
+Blood Type: B+
+Diagnosis: Heart Disease
+Medications: Drug E, Drug B
+Age: 51

@@ -1,0 +1,5 @@
+Patient ID: 92160
+Blood Type: A+
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug A
+Age: 54

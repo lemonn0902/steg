@@ -1,0 +1,5 @@
+Patient ID: 61350
+Blood Type: A-
+Diagnosis: Fracture
+Medications: Drug B, Drug E
+Age: 71

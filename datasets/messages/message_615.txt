@@ -1,0 +1,5 @@
+Patient ID: 88332
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug E
+Age: 76

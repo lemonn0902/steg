@@ -1,0 +1,5 @@
+Patient ID: 56519
+Blood Type: B-
+Diagnosis: Infection
+Medications: Drug E, Drug A, Drug C
+Age: 59

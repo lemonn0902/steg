@@ -1,0 +1,5 @@
+Patient ID: 87774
+Blood Type: AB-
+Diagnosis: Stroke
+Medications: Drug D
+Age: 66

@@ -1,0 +1,5 @@
+Patient ID: 56655
+Blood Type: B-
+Diagnosis: Brain Tumor
+Medications: Drug C, Drug B, Drug A
+Age: 70

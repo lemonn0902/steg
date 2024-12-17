@@ -1,0 +1,5 @@
+Patient ID: 27396
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug E, Drug A
+Age: 69

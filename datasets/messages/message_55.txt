@@ -1,0 +1,5 @@
+Patient ID: 26296
+Blood Type: A+
+Diagnosis: Lung Cancer
+Medications: Drug B
+Age: 42

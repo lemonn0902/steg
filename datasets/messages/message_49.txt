@@ -1,0 +1,5 @@
+Patient ID: 58811
+Blood Type: A+
+Diagnosis: Infection
+Medications: Drug C
+Age: 81

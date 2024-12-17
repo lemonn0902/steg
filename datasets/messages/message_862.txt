@@ -1,0 +1,5 @@
+Patient ID: 46169
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug C
+Age: 20

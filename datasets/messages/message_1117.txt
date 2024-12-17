@@ -1,0 +1,5 @@
+Patient ID: 88939
+Blood Type: B-
+Diagnosis: Lung Cancer
+Medications: Drug A, Drug D
+Age: 80

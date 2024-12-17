@@ -1,0 +1,5 @@
+Patient ID: 52373
+Blood Type: B-
+Diagnosis: Fracture
+Medications: Drug E, Drug B
+Age: 20
