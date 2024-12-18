@@ -1,0 +1,9 @@
+{
+  "epochs": 100,
+  "encoder": "dense",
+  "data_depth": 1,
+  "hidden_size": 64,
+  "dataset": "div2k",
+  "output": "SteganoGAN/models/fine_tuned_model.steg",
+  "lr": 0.001
+}
